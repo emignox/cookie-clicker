@@ -2,12 +2,64 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite App</title>
   </head>
   <body>
-    <button id="countButton">Count</button>
+    <div class="wrapper">
+      <!-- HEADER ////////////  -->
+      <header>
+        <!-- BTN AUTO-CLICKER -->
+        <section class="autoClicker">
+          <button class="btn btn-autoClicker"></button>
+          <p>
+            AUTO-CLICKER — Cost:
+            <span class="cost-autoClicker">50</span>
+            Cookies
+          </p>
+        </section>
+
+        <!-- BTN MULTIPLICATOR -->
+        <section class="multiplicator">
+          <button class="btn btn-multiplicator"></button>
+          <p>
+            MULTIPLICATOR — Cost:
+            <span class="cost-multiplicator">100</span>
+            Cookies
+          </p>
+        </section>
+
+        <!-- BTN BOOSTER -->
+        <section class="booster">
+          <button class="btn btn-booster"></button>
+          <p>
+            BOOSTER — Cost:
+            <span class="cost-booster">500</span>
+            Cookies
+            <span class="timer-booster"></span>
+          </p>
+        </section>
+      </header>
+
+      <!-- MAIN ////////////  -->
+      <main>
+        <!-- BTN  COOKIE-CLICKER -->
+        <button id="countButton" class="btn btn-cookieClicker"></button>
+        <h1 id="counter"></h1>COOKIE CLICKER</h1>
+      </main>
+
+      <!-- FOOTER ////////////  -->
+      <footer>
+        <!-- SCORE -->
+        <p>
+          SCORE:
+          <span class="score">0</span>
+          Cookies
+        </p>
+      </footer>
+    </div>
+
+
     <script type="module" src="/main.js"></script>
   </body>
 </html>

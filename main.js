@@ -1,7 +1,8 @@
 
-    document.getElementById('countButton').addEventListener('click', function () {
-        counter++;
-        document.getElementById('counter').textContent = counter;
-    });
+// JS FOR COOKIE CLICKER PRICIPAL 
+let  counter = 0;
+document.querySelector('.btn-cookieClicker').addEventListener('click', function () {
+    counter++;
+    document.getElementById('.score').textContent = counter;
+});
 
-    let counter = 0;
