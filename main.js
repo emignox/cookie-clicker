@@ -1,6 +1,5 @@
 (() => {
 
-
     let score = 0; 
     let priceMultiplicator = 10; // Prix du multiplicator
     let multiplicator = 0; // Niveau du multiplicator
