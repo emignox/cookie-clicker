@@ -198,7 +198,7 @@ main .btn {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  background: #d5d2fc;
+  background: #d7d4fc;
   border-radius: 30px;
   box-shadow:
     3px 3px 3px 0px rgba(255, 255, 255, 0.63) inset,
@@ -238,6 +238,5 @@ footer {
 
   position: absolute;
 }
-.close-instruction{ 
-   cursor: none;
-}
+
+
