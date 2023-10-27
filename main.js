@@ -325,7 +325,5 @@
         document.getElementById("cost-booster").innerHTML = boostPrice;
         document.getElementById("lvl-booster").innerHTML = lvlBooster;
     });
-
-      
-
+    ////OVERLAY BUTTON ////////////
 })();
