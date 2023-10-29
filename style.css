@@ -451,12 +451,3 @@ main .btn {
     gap: 10px;
   }
 }
-
-/* FOOTER //////////////////////////////////// */
-footer {
-  display: none;
-}
-
-/* MQ - FOOTER */
-@media (max-width: 768px) {
-}
