@@ -11,13 +11,11 @@
 - **Type :** Challenge
 - **Durée :** 5 jours
 - **Deadline :** 30/10/23 à 09h
-- **Équipe :** Groupe de 3 personnes
 
-## 🤜🤛 ÉQUIPAGE
+## 🤜🤛 CREATOR 
 
 - [Emanuele Polizotto](https://github.com/emignox "lien github Emanuele Polizotto")
-- [Thomas Syben](https://github.com/Harbingar "lien github Thomas Syben")
-- [Eva Lambert](https://github.com/evalambert "lien github Eva Lambert")
+
 
 ## 🎯 OBJECTIFS
 
@@ -51,7 +49,7 @@
 
 ## ⏰ ÉTAT D'AVANCEMENT
 
-Terminé 🙃 mais nous aimerions rendre la version mobile plus fonctionelle.
+Terminé 🙃 mais j'aimerai rendre la version mobile plus fonctionelle.
 
 ## 👀 MAQUETTE
 
