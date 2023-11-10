@@ -20,8 +20,6 @@
 ## 🎯 OBJECTIFS
 
 - Renforcer nos compétences en JavaScript
-- Apprendre à travailler en équipe :
-  - Organisation et repartition du travail
   - Apprendre à gérer les conflits Git et Gihub
 
 ## ✅ CRITÈRES D'ÉVALUATION
